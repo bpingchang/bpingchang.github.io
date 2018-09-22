@@ -1,6 +1,5 @@
 # bpingchang.github.io
 
-行内式链接 = [内容](地址 "标题")
-
-参考式链接 = [内容][参考标识符]
-参考标识符 = [标识符]: 地址 "标题"
+[nginx](http://bpingchang/bpingchang.gihub.io/nginx/index "悬停显示")
+[jetty](http://bpingchang/bpingchang.gihub.io/jetty/index "悬停显示")
+[java](http://bpingchang/bpingchang.gihub.io/java/index "悬停显示")
